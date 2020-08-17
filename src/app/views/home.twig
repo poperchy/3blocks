@@ -1,7 +1,16 @@
 {% extends 'layout/base.twig' %}
 {% block title %}Guide{% endblock %}
 {% block body %}
-    {% include 'components/slider.twig' %}
-    {% include 'components/parallax.twig' %}
-    {% include 'components/form.twig' %}
+        <div class="scroll-page">
+                <div class="section">{% include 'components/slider.twig' %}</div>
+                <div class="section">{% include 'components/parallax.twig' %}</div>
+                <div class="section">{% include 'components/form.twig' %}</div>
+        </div>
+        <div class="sent__overlay" id="modal-sent" >
+                <div class="sent" >
+                        <span class="sent__close">&times;</span>
+                        <p class="sent__title">Ваш заказ принят.</p>
+                        <span class="sent__desc">Ожидайте звонка</span>
+                </div>
+        </div>
 {% endblock %}

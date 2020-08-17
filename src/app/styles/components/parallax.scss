@@ -1,0 +1,45 @@
+.parallax {
+  height: 100vh;
+  background: #000000;
+  position: relative;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  &__img {
+    position: absolute;
+    object-fit: cover;
+  }
+
+  &__img-0 {
+    width: 100%;
+    height: 95%;
+  }
+
+  &__img-1 {
+    right: 0;
+
+  }
+
+  &__img-2 {
+    left: 0;
+    top: 20px;
+    width: 100px;
+    height: 100px;
+  }
+
+  &__img-3 {
+    left: 250px;
+    bottom: 50px;
+    width: 200px;
+    height: 200px;
+  }
+
+  &__img-4 {
+    left: 60%;
+    top: 10%;
+    width: 550px;
+    height: 550px;
+  }
+}

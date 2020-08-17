@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8df7dd3-79d8-4c4a-a77d-3361ca6d570b" name="Default Changelist" comment="" />
+    <list default="true" id="e8df7dd3-79d8-4c4a-a77d-3361ca6d570b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/js/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/js/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/styles/layout/common.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/styles/layout/common.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/styles/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/styles/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/views/components/form.twig" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/views/components/form.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/views/components/parallax.twig" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/views/components/parallax.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/views/components/slider.twig" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/views/components/slider.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/views/home.twig" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/views/home.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/views/layout/base.twig" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/views/layout/base.twig" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,9 +28,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pincet" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\MY JOB\3blocks\src\app\js\libs" />
+      <recent name="D:\MY JOB\3blocks\src\app\styles\libraries" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -32,7 +49,7 @@
       <updated>1597674614695</updated>
       <workItem from="1597674615794" duration="289000" />
       <workItem from="1597674950293" duration="319000" />
-      <workItem from="1597675279435" duration="480000" />
+      <workItem from="1597675279435" duration="30197000" />
     </task>
     <servers />
   </component>
@@ -44,9 +61,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1280.54.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1597675144494" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1597674626755">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1597700805836">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/-1280.54.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1597674626755" />
+    <state x="740" y="274" key="FileChooserDialogImpl/-1280.54.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1597700805836" />
   </component>
 </project>

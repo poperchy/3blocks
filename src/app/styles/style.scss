@@ -10,5 +10,12 @@
 @import "mixins/layout";
 @import "fonts/fonts";
 @import "libraries/normalize";
+@import "libraries/swiper-bundle";
+@import "libraries/fullpage";
 @import "layout/common";
 @import "layout/visually-hidden";
+
+@import "components/slider";
+@import "components/parallax";
+@import "components/form";
+@import "components/sent";

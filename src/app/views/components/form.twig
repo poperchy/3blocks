@@ -1,3 +1,20 @@
-<form action="#">
-    form
+<form action="#" class="form">
+    <label class="form__label">
+        <input class="form__input" id="input-name" type="text" placeholder="Имя">
+        <span class="form__desc">Имя</span>
+    </label>
+    <label class="form__label">
+        <input class="form__input" id="input-phone" type="tel" name="phone" placeholder="Телефон" minlength="13" maxlength="20"
+                pattern="(8 0(25|29|33|44) ([0-9]{3}( [0-9]{2}){2}))" required/>
+        <span class="form__desc">Телефон (формат: 8 0ХХ ХХХ ХХ ХХ)</span>
+    </label>
+    <label class="form__label">
+        <input class="form__input" id="input-email" type="email" placeholder="Email" required>
+        <span class="form__desc">Email</span>
+    </label>
+    <label class="form__label">
+        <input class="form__input" id="input-login" minlength="4" maxlength="32" type="text" placeholder="Login" required>
+        <span class="form__desc">Login (Логин должен быть минимум 4 символа)</span>
+    </label>
+    <button class="btn" value="Send">Отправить</button>
 </form>
